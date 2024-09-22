@@ -57,12 +57,12 @@ function Contact() {
         </li>
 
         <li className="Contact-item">
-          <a href='https://www.facebook.com/Pepexxxx'>Facebook</a> 
+          <a href='https://www.facebook.com/Pepexxxx' target="_blank" rel="noopener noreferrer">Facebook</a> 
           <span className="material-icons">facebook</span>
         </li>
 
         <li className="Contact-item">
-          <a href='https://github.com/Pepexxxxx'>Github</a> 
+          <a href='https://github.com/Pepexxxxx' target="_blank" rel="noopener noreferrer">Github</a> 
           <span className="material-icons">hub</span>
         </li>
       </ul>
