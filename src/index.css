@@ -1,0 +1,98 @@
+
+.Header h1{
+  font-family      : "Montserrat", sans-serif;
+  font-size        : 50px;
+  margin           : 0;
+}
+
+.Header h3{
+  font-family      : "Poppins", sans-serif;
+  font-size        : 25px;
+  font-weight      : 150;
+  margin           : 0;
+}
+/* ==== CONTACT START ===== */
+.Contact h3{
+  font-family      : "Montserrat", sans-serif;
+  font-weight      : 700;
+  display          : flex;
+  align-items      : flex-end;
+  justify-content  : flex-end;
+  padding-right    : 20px;
+  font-weight      : 100px;
+  margin-bottom    : 0px;
+  padding-bottom   : 0px;
+}
+
+
+.Contact-item {
+  font-family      : 'Poppins', sans-serif;
+  font-weight      : 300;
+  font-size        : 12px;
+  display          : flex;
+  align-items      : center;
+  justify-content  : flex-end;
+  margin           : 0%;
+  padding: 0px;
+}
+
+.material-icons {
+  font-size        : 100px;
+  margin-left      : 10px;
+  margin-right     : 15px;
+  color            : #888c8c;
+}
+/* ==== CONTACT END ===== */
+
+/* ==== EDUCATION & SSKILLS START ===== */
+.Education-item {
+  font-family      : 'Poppins', sans-serif;
+  font-weight      : 300;
+  font-size        : 12px;
+  display          : flex;
+  align-items      : center;
+  justify-content  : flex-end;
+  margin           : 0;
+  margin-right     : 20px;
+}
+
+.Experience h2 {
+  font-family      : "Montserrat", sans-serif;
+  display          : flex;
+  align-items      : flex-start;
+  justify-content  : flex-start;
+  font-weight      : 700;
+  font-size        : 20px;
+  margin-top       : 18px;
+  margin-bottom: 0;
+}
+
+.Experience h4 {
+  font-family      : "Poppins", sans-serif;
+  display          : flex;
+  align-items      : flex-start;
+  justify-content  : flex-start;
+  font-weight      : 400;
+  font-size        : 18px;  
+  margin           : 5px 0 0 0;
+
+}
+
+.Experience h5 {
+  font-family      : "Poppins", sans-serif;
+  display          : flex;
+  align-items      : flex-start;
+  justify-content  : flex-start;
+  font-weight      : 300;
+  font-size        : 13px;  
+  margin           : 0;
+}
+
+
+.Experience ul {
+  font-family      : "Poppins", sans-serif;
+  text-align       : left;
+  font-weight      : 300;
+  font-size        : 12px;  
+  margin           : 0 25px 0 0;
+}
